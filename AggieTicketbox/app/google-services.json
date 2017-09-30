@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "10562095479",
+    "firebase_url": "https://aggieticketbox.firebaseio.com",
+    "project_id": "aggieticketbox",
+    "storage_bucket": "aggieticketbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10562095479:android:fb89238e152c98fa",
+        "android_client_info": {
+          "package_name": "com.example.pgran.aggieticketbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10562095479-kju8pnjn924g8h6jjep0ul9auandceaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pgran.aggieticketbox",
+            "certificate_hash": "db1de41d03696eb4bbb6286912b763364efe9ab4"
+          }
+        },
+        {
+          "client_id": "10562095479-as98eicqmjin3lt5t9g2oardvdb8mr7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANpwyvIUp6jl4yc_j5n0ILpRNMZ8Fb8B4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10562095479-as98eicqmjin3lt5t9g2oardvdb8mr7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
