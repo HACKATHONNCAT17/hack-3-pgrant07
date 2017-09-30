@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\layout-v11\\notification_media_action.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tw__slide_out.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\6632103b3fb519ef14fb13ea424b1dcc2242119a\\output\\res\\anim\\tw__slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tw__accelerate_cubic.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\6632103b3fb519ef14fb13ea424b1dcc2242119a\\output\\res\\anim\\tw__accelerate_cubic.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\pgran\\Desktop\\hack-3-pgrant07\\AggiePride\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\pgran\\.android\\build-cache\\82ef0ae9c37a2d0d774a2ac1caa76bee589c572f\\output\\res\\anim\\abc_fade_out.xml"
+    }
+]

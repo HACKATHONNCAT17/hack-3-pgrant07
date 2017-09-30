@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\206d54e78c67cb34005bb931b72fe7fb8d4bdb3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58d775ddb89146f1aaf31f5090ba9831069076e8">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_a503f7676c653e57379c255f1e0f99f80eaed770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\gson-2.7_a53b74fefdbb986c4dbd3faa57cca601c2296aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_b532777591cfaaf805499ed563a3ab789450d347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\fd5ccec5931c63d6ba2d442cab99981ee0ce5192\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3cb69c8f121a1a08fb01b893e16507576b93eae8">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_570cfb35c9a3f0ede2a08be05392d1782e5109e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\okio-1.9.0_af2195e1e538136367cd903888cda9af9f175351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\e49322b0ceb936d800f392d7d20efa24d3f85e10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_30b8f2a92db1b90db6b761be1f86f932850215b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.14.3\71218d7dd9435e8b43e5ccf117bec37cb78fa2eb\twitter-text-1.14.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71218d7dd9435e8b43e5ccf117bec37cb78fa2eb">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\twitter-text-1.14.3_e6b1acef9980906294c7a0d611fb55c50cce57e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\f435f84f621b2584d29f077ea00b9d9e620e70de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="431975800846a421d3b7ae1e5388b5bd87a5cfca">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_fb8a1583cc352e9f9f105182292cf846b049fff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\12a6ba82ed807570392bf1b81a9302dbb526523a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af595815ceb3c9dea11f8a74d592a05ff4ead05f">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_c7dd8d3b54be938ad9cbeec66c25bca38d6417ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\a2f1427e3bda63e232c67e2f63945a06b1cd5488\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c046dc3c0911d142627192884ee771d9a6f5f34">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_08c4d561a4dd98df62f71a6c8724ca4b227d9011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\okhttp-3.4.2_74db972463acb8e604ea89a95c68d246af2b11ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\cd401bf02fd2bfecb8969096acddae44aec0b3cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="92371d7303cc2411771e6d76bcd79119830e1fbf">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_05aedfee3eb469c227fe94f53e7a1fb3ea558056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\5ec671bf836ecc9fd317f8c6ae35827889ff0c91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b7433f0a43af98cb62a9b7ffc049d4e3a268c1f5">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_191647bb0d8def212729656173c62970d2e37332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\66f825edba5b96d904e3fe73247b8840b5dba609\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="24d01029681c67ac64b0bc9ba7fd2c205374588e">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_2d4118eaaa4e36fe6eb0fe76b7c320300016d29c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\d12b7427bf3b931d82fb60ccbb97451cedd715e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="213a75f93fa2961a4c69566ef3c9a365c70a8693">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_2097cb41ba75302dfa086dfc54ba70168e459c3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_915adcadb14fff4c8796ee5d7f98960752d62a67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.gradle\caches\modules-2\files-2.1\com.mopub.volley\mopub-volley\1.1.0\4357bce66ae3bb9be50679e43df122fd0a8f3394\mopub-volley-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4357bce66ae3bb9be50679e43df122fd0a8f3394">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\mopub-volley-1.1.0_a3e6cc00d0ccc97143e6944d60b4f3628e43cfa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\7d5dde8dd88ef6e4db31262c1cdb73a50fc2a31a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6525f06e39d6c9e88d5b86ce6fe0351bc674a80">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_7bcf50e8e1b79190547ad4ea7da0deeb38577467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_88e49cfaaa4ecbdbc19c2158bba06b4281d6b774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\67e905c8d4f4a9d0756e237dfad180907d3fe21d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5abc448dbde53b0cd4cbe3c19d1e40c680667563">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_04ad04475f9d0a702fe3b0fffac86e52d93f8a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pgran\.android\build-cache\6632103b3fb519ef14fb13ea424b1dcc2242119a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9df547a8c3f971d9e8ed570b5e36c44a9dc7632f">
+        <dex dex="C:\Users\pgran\Desktop\hack-3-pgrant07\AggiePride\app\build\intermediates\pre-dexed\debug\classes_d8777729b8d6b826081e903c00cf8851b4fc7c58.jar" />
+    </item>
+
+</items>

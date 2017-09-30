@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aggie Ticketbox</string>
+    <string-array name="type">
+        <item>GHOE</item>
+        <item>Sport</item>
+        <item>Spring Fest</item>
+        <item>other</item>
+    </string-array>
+</resources>
